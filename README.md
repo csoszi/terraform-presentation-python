@@ -17,8 +17,6 @@ terraform-presentation-python/
 │ └── dev/
 └── README.md
 
-yaml
-Kód másolása
 
 ---
 
