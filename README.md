@@ -6,7 +6,6 @@ This project demonstrates how to deploy a **Django application** using **Terrafo
 
 <pre> ```plaintext Project Structure terraform-presentation-python/ ├── app-source/ # Django application source ├── terraform/ # Terraform infrastructure │ ├── modules/ # Reusable Terraform modules │ │ ├── network/ │ │ ├── compute/ │ │ └── storage/ │ └── environments/ # Environment-specific configurations │ └── dev/ └── README.md ``` </pre>
 
-
 ---
 
 ## Prerequisites
